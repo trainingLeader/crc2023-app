@@ -1,4 +1,6 @@
+using System.Reflection;
 using Apicrc.Extensions;
+using AspNetCoreRateLimit;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
 
@@ -10,7 +12,10 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddAutoMapper(Assembly.GetEntryAssembly());
 builder.Services.ConfigureCors();
+builder.Services.ConfigureRatelimiting();
+builder.Services.ConfigureApiVersioning();
 builder.Services.AddDbContext<CrcdbContext>(options =>
 {
     string connectionString = builder.Configuration.GetConnectionString("ConexMysql");
@@ -27,6 +32,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseCors("CorsPolicy");
 app.UseHttpsRedirection();
+
+app.UseIpRateLimiting();
 
 app.UseAuthorization();
 

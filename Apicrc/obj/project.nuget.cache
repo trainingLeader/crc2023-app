@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "N7g2ZYv/ncuVQxMa+MzlCvX3BX9KZvS+nCypqWGwI/sb19JAGr/r31HsL1hQ+knl8b8Pkf7v0rSWKGOA13iw4g==",
+  "dgSpecHash": "EZKUh8ByWjIPF3wo76T5b0nSIZoxrLsD58LgTirgdRmZ/7BEgu+asYjYALwKnxT4QHZH2R3KcjMvMHD24POuKA==",
   "success": true,
   "projectFilePath": "e:\\Proy_Santoto\\crc2023-app\\Apicrc\\Apicrc.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "C:\\Users\\developer\\.nuget\\packages\\itext.pdfhtml\\5.0.1\\itext.pdfhtml.5.0.1.nupkg.sha512",
     "C:\\Users\\developer\\.nuget\\packages\\itext7.pdfhtml\\5.0.1\\itext7.pdfhtml.5.0.1.nupkg.sha512",
     "C:\\Users\\developer\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.10\\microsoft.aspnetcore.authentication.jwtbearer.7.0.10.nupkg.sha512",
+    "C:\\Users\\developer\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
     "C:\\Users\\developer\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\developer\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\developer\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\1.1.0\\microsoft.dotnet.platformabstractions.1.1.0.nupkg.sha512",
