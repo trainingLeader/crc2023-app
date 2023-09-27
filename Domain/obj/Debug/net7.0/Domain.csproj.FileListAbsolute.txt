@@ -1,0 +1,12 @@
+E:\Proy_Santoto\crc2023-app\Domain\bin\Debug\net7.0\Domain.deps.json
+E:\Proy_Santoto\crc2023-app\Domain\bin\Debug\net7.0\Domain.dll
+E:\Proy_Santoto\crc2023-app\Domain\bin\Debug\net7.0\Domain.pdb
+E:\Proy_Santoto\crc2023-app\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+E:\Proy_Santoto\crc2023-app\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proy_Santoto\crc2023-app\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+E:\Proy_Santoto\crc2023-app\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+E:\Proy_Santoto\crc2023-app\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+E:\Proy_Santoto\crc2023-app\Domain\obj\Debug\net7.0\Domain.dll
+E:\Proy_Santoto\crc2023-app\Domain\obj\Debug\net7.0\refint\Domain.dll
+E:\Proy_Santoto\crc2023-app\Domain\obj\Debug\net7.0\Domain.pdb
+E:\Proy_Santoto\crc2023-app\Domain\obj\Debug\net7.0\ref\Domain.dll

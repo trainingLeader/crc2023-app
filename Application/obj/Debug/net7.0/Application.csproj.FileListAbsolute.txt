@@ -1,0 +1,17 @@
+E:\Proy_Santoto\crc2023-app\Application\bin\Debug\net7.0\Application.deps.json
+E:\Proy_Santoto\crc2023-app\Application\bin\Debug\net7.0\Application.dll
+E:\Proy_Santoto\crc2023-app\Application\bin\Debug\net7.0\Application.pdb
+E:\Proy_Santoto\crc2023-app\Application\bin\Debug\net7.0\Domain.dll
+E:\Proy_Santoto\crc2023-app\Application\bin\Debug\net7.0\Persistence.dll
+E:\Proy_Santoto\crc2023-app\Application\bin\Debug\net7.0\Domain.pdb
+E:\Proy_Santoto\crc2023-app\Application\bin\Debug\net7.0\Persistence.pdb
+E:\Proy_Santoto\crc2023-app\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+E:\Proy_Santoto\crc2023-app\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proy_Santoto\crc2023-app\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+E:\Proy_Santoto\crc2023-app\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+E:\Proy_Santoto\crc2023-app\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+E:\Proy_Santoto\crc2023-app\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+E:\Proy_Santoto\crc2023-app\Application\obj\Debug\net7.0\Application.dll
+E:\Proy_Santoto\crc2023-app\Application\obj\Debug\net7.0\refint\Application.dll
+E:\Proy_Santoto\crc2023-app\Application\obj\Debug\net7.0\Application.pdb
+E:\Proy_Santoto\crc2023-app\Application\obj\Debug\net7.0\ref\Application.dll

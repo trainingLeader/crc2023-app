@@ -1,0 +1,15 @@
+E:\Proy_Santoto\crc2023-app\Persistence\bin\Debug\net7.0\Persistence.deps.json
+E:\Proy_Santoto\crc2023-app\Persistence\bin\Debug\net7.0\Persistence.dll
+E:\Proy_Santoto\crc2023-app\Persistence\bin\Debug\net7.0\Persistence.pdb
+E:\Proy_Santoto\crc2023-app\Persistence\bin\Debug\net7.0\Domain.dll
+E:\Proy_Santoto\crc2023-app\Persistence\bin\Debug\net7.0\Domain.pdb
+E:\Proy_Santoto\crc2023-app\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+E:\Proy_Santoto\crc2023-app\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proy_Santoto\crc2023-app\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+E:\Proy_Santoto\crc2023-app\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+E:\Proy_Santoto\crc2023-app\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Proy_Santoto\crc2023-app\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+E:\Proy_Santoto\crc2023-app\Persistence\obj\Debug\net7.0\Persistence.dll
+E:\Proy_Santoto\crc2023-app\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+E:\Proy_Santoto\crc2023-app\Persistence\obj\Debug\net7.0\Persistence.pdb
+E:\Proy_Santoto\crc2023-app\Persistence\obj\Debug\net7.0\ref\Persistence.dll

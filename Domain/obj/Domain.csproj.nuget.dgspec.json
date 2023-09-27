@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Proy_Santoto\\crc2023-app\\Domain\\Domain.csproj": {}
+    "E:\\Proy_Santoto\\crc2023-app\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "e:\\Proy_Santoto\\crc2023-app\\Domain\\Domain.csproj": {
+    "E:\\Proy_Santoto\\crc2023-app\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Proy_Santoto\\crc2023-app\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\Proy_Santoto\\crc2023-app\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "e:\\Proy_Santoto\\crc2023-app\\Domain\\Domain.csproj",
+        "projectPath": "E:\\Proy_Santoto\\crc2023-app\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\developer\\.nuget\\packages\\",
-        "outputPath": "e:\\Proy_Santoto\\crc2023-app\\Domain\\obj\\",
+        "outputPath": "E:\\Proy_Santoto\\crc2023-app\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
